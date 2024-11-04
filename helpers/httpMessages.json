@@ -1,0 +1,18 @@
+{
+  "USER_CREATED": "Successful User Creation!",
+  "USER_ALREADY_EXISTS": "Email is already in use",
+  "USER_FOUND": "Successfully fetched User details",
+  "USER_NOT_FOUND": "User Not Found!",
+  "USER_LOGGED_IN": "User Login Successful!",
+  "PASSWORD_NOT_MATCHED": "Entered Password does not match!",
+  "TOKEN_NOT_EXIST": "Token does not exist in authorization",
+  "UNAUTHORIZED": "Unauthorized Access",
+  "SESSION_EXPIRED": "Session Expired",
+  "USER_LOGGED_OUT": "User Logout Successful!",
+  "INVALID_REFRESH_TOKEN": "Invalid or expired refresh token",
+  "ACCESS_TOKEN_SUCCESS": "Successfully generated Refresh Access Token",
+  "ANSWER_GENERATED": "AI Generated Answer",
+  "QUESTION_FOUND": "Successfully fetched question details",
+  "QUESTION_NOT_FOUND": "Question Not Found!",
+  "ALL_QUESTIONS_SUCCESS": "All Questions fetched Successfully!"
+}
